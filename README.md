@@ -2,7 +2,10 @@
 
 An iOS movie & TV discovery app built with **SwiftUI** and **SwiftData**. Browse trending and top-rated titles from **TMDB**, watch trailers pulled from **YouTube**, and save favorites for later — all offline-persisted on device.
 
-<img src="https://github.com/dran1k-default/Awesome_Movie/blob/main/Simulator%20Screenshot%20-%20iPhone%2017e%20-%202026-08-30%20at%2017.23.28.png" width="300" alt="Screenshots">
+<p align="left">
+  <img src="https://github.com/dran1k-default/Awesome_Movie/blob/main/Simulator%20Screenshot%20-%20iPhone%2017e%20-%202026-08-30%20at%2017.23.28.png">
+  <img src="https://github.com/dran1k-default/Awesome_Movie/blob/main/Simulator%20Screenshot%20-%20iPhone%2017e%20-%202026-08-30%20at%2017.23.38.png">
+</p>
 
 ## Features
 
