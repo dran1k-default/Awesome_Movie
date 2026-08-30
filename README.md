@@ -30,7 +30,7 @@ An iOS movie & TV discovery app built with **SwiftUI** and **SwiftData**. Browse
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/AwesomeMovie.git
+   git clone https://github.com/dran1k-default/AwesomeMovie.git
    ```
 2. Open `awesomemovie.xcodeproj` in Xcode.
 3. Fill in your API keys in `awesomemovie/APIConfig.json`:
@@ -66,14 +66,4 @@ awesomemovie/
 ├── HorizontalListView.swift     # Horizontal poster carousel
 ├── verticallistview.swift       # Vertical poster list
 └── constatns.swift              # Shared string/icon constants
-```
 
-## Roadmap Ideas
-
-- TV show support in Upcoming
-- Localization
-- Trailer autoplay preview on Home
-
-## License
-
-Add a license of your choice (e.g. MIT) if you plan to open-source this.
